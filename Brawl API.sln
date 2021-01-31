@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brawl API", "Brawl API\Brawl API.csproj", "{74CE01CD-34C8-458F-95CA-B368B548A2B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74CE01CD-34C8-458F-95CA-B368B548A2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CE01CD-34C8-458F-95CA-B368B548A2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CE01CD-34C8-458F-95CA-B368B548A2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CE01CD-34C8-458F-95CA-B368B548A2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCCCD2AE-DB1D-49F9-99E9-A5A5826A9D49}
+	EndGlobalSection
+EndGlobal

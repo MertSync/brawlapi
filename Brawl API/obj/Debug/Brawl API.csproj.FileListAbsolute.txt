@@ -1,0 +1,7 @@
+C:\Users\mertk\source\repos\Brawl API\Brawl API\bin\Debug\Brawl API.exe.config
+C:\Users\mertk\source\repos\Brawl API\Brawl API\bin\Debug\Brawl API.exe
+C:\Users\mertk\source\repos\Brawl API\Brawl API\bin\Debug\Brawl API.pdb
+C:\Users\mertk\source\repos\Brawl API\Brawl API\obj\Debug\Brawl API.csprojAssemblyReference.cache
+C:\Users\mertk\source\repos\Brawl API\Brawl API\obj\Debug\Brawl API.csproj.CoreCompileInputs.cache
+C:\Users\mertk\source\repos\Brawl API\Brawl API\obj\Debug\Brawl API.exe
+C:\Users\mertk\source\repos\Brawl API\Brawl API\obj\Debug\Brawl API.pdb
